@@ -1,2 +1,3 @@
 # Fast-Food
-One of my college jobs.
+
+You can choose your food, additional and that's it =)
